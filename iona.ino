@@ -1,4 +1,4 @@
-//foo-mega by MyuuGit
+//mega-foo by MyuuGit
 //this is a cutting edge branch of iona-mega, for experimental purposes only, apply topically.
 //This software based on iona-mega which is Copyright 2018 Takashi Toyoshima <toyoshim@gmail.com>. All rights reserved.
 //
